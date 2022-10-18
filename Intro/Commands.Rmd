@@ -1,0 +1,43 @@
+---
+title: "Commands"
+output: pdf_document
+---
+
+## Intro to Linux
+The commands we learnt were ls, mkdir, ls -ltr, rm, rm -r, cat, vim, date, cd, pwd, history
+
+### History Command
+The History command shows us the output of all commands that we have run so far.
+
+### ls and ls -ltr
+These commands list the files within my directory
+
+### Shortcut Ctrl + C
+Cancels any running command or used to get the prompt
+
+### Shortcut Ctrl + R
+Reverse search historical commands
+
+### Shortcut Ctrl + L
+Clear screen
+
+### mkdir
+Create a directory
+
+### rm and rm -r
+Removes files and rm -r removes directory
+
+### cat
+Shows the contents of the files
+
+### pwd
+Present working directory
+
+### cd
+Changes the current directory
+
+### vim
+Vim is editing tool
+
+### date
+Shows the date and time
